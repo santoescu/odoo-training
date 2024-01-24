@@ -2,3 +2,8 @@
 	path = ffjuanzuluaga/payment_addi
 	url = git@github.com:ffjuanzuluaga/payment_addi.git
 	branch = 16.0
+
+[submodule "ffjuanzuluaga/payment_sistecredito"]
+	path = ffjuanzuluaga/payment_sistecredito
+	url = git@github.com:ffjuanzuluaga/payment_sistecredito.git
+	branch = 16.0
